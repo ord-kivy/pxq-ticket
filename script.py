@@ -150,13 +150,13 @@ def server_jiang_notify(key, title, msg=''):
 def main():
     app = PxqShowMonitor()
     message = app.run()
-    with open('README.md', 'r') as f:
+    with open('README1.md', 'r') as f:
         content = f.read()
 
     content = re.sub('<!-- SHOW_START -->([\s\S]*?)<!-- SHOW_END -->',
                      f'<!-- SHOW_START -->\n{message}\n<!-- SHOW_END -->', content)
 
-    with open('README.md', 'w') as f:
+    with open('README1.md', 'w') as f:
         f.write(content)
 
 

@@ -15,9 +15,9 @@ UI界面 + 同盾blackbox 和 抢购协议都可单独出
 
 在线陪聊  哈哈哈
 
-工具使用教程
+#工具使用教程
 选择这里的id
 ![img.png](images/img.png)
 
-短时间可以下单五六次也不会被盾
+#短时间可以下单五六次也不会被盾
 ![img.png](images/img1.png)

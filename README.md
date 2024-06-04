@@ -28,6 +28,7 @@ UI界面 + 同盾blackbox 和 抢购协议都可单独出
 
 # 软件界面
 ![img_1.png](images/img_1.png)
+![img_2.png](images/img_2.png)
 
 <!-- SHOW_START -->
 ### 近期开售的演出列表: 

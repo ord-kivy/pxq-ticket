@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee865287-e208-4f37-91bb-45bcab165be7" name="Changes" comment="" />
+    <list default="true" id="ee865287-e208-4f37-91bb-45bcab165be7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/ticked.py" beforeDir="false" afterPath="$PROJECT_DIR$/ticked.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -107,6 +109,7 @@
       <workItem from="1717497248382" duration="39000" />
       <workItem from="1717565487410" duration="38000" />
       <workItem from="1717660624482" duration="254000" />
+      <workItem from="1717740905189" duration="912000" />
     </task>
     <servers />
   </component>
@@ -136,6 +139,6 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/pxq_ticket$ticked.coverage" NAME="ticked Coverage Results" MODIFIED="1717660627172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pxq_ticket$ticked.coverage" NAME="ticked Coverage Results" MODIFIED="1717740926410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
